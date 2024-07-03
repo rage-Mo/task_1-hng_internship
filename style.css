@@ -1,0 +1,61 @@
+#card1 {
+   height : 500px;
+   width : 1400px;
+   margin-right :auto;
+   margin-left :auto ;
+   background-color : 	#F0FFFF;
+}
+
+
+#abc4 {
+   height : 70px;
+}
+
+
+
+img {
+   height :400px;
+   width : 400px;
+   margin-top:60px;
+   margin-right :auto;
+   margin-left :50px;
+}
+
+#zi {
+text-align :justify;
+}
+
+
+b {
+color :purple;
+}
+
+
+
+h5 {
+  text-align: center;
+}
+
+
+
+p {
+  text-align: center;
+}
+
+
+
+#current-time {
+width:100px;
+border-color: purple;
+border-style : dotted;
+border-width: 2px;
+}
+
+
+h6[data-active="false"] {
+  display: none;
+}
+#lm {
+background-color :black;
+}
+
